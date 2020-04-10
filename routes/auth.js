@@ -6,7 +6,6 @@ const authController = require('../controllers/authController')
 const auth = require('../middleware/auth')
 //Iniciar sesion
 //api/auth
-
 /*se elimino
 [
     check('email','Agrega un Email valido').isEmail(),
